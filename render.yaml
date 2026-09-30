@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: site-one-page-lavage-de-chiens
+    env: static
+    buildCommand: ""
+    staticPublishPath: .
